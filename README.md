@@ -1,0 +1,4 @@
+SplitApp
+========
+
+Easily split bills
