@@ -1,3 +1,44 @@
+#web-app {
+    position:fixed;
+    top:0;
+    left:0;
+    background:rgba(0,0,0,0.6);
+    z-index:5;
+    width:100%;
+    height:100%;
+    display: none;
+}
+#close {
+	display: none;
+	position:fixed;
+	top:0;
+	right: 5%;
+	z-index: 5;
+}
+#open {
+	float: right;
+}
+.switchMode {
+	
+	/* margin-top: 40px; */
+	padding: 10px;
+	color: rgb(61,181,41);
+	border: none;
+	/* border-radius: 4px; */
+	/* color: white; */
+	font-size: 15px;
+	background: none;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.switchMode:hover {
+	color: silver;
+}
+.switchMode:focus {
+	outline: none;
+}
+
+
 .screenshots_wrapper {
 	
 }
