@@ -46,3 +46,23 @@
 .screenshots_wrapper img {
 	width: 30%;
 }
+
+.app_icons_wrapper {
+	margin-top: 10px;
+}
+
+.app_icons_wrapper img {
+	width: 200px;
+	height: 66px;
+	cursor: pointer;
+	border-radius: 12px;
+	background-color: grey;
+}
+
+#img_web_app {
+	margin-left: 120px;
+}
+
+.app_icons_wrapper img:hover {
+	background-color: rgb(61,181,41);
+};
